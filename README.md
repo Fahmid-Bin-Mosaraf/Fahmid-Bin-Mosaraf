@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahmid-Bin-Mosaraf</h1>
 <h3 align="center">A passionate frontend developer and competitive programmer.</h3>
-<img src="https://www.canva.com/design/DAFDaSORgaE/WckJi91ZjHT_vZSzADh_rg/edit?utm_content=DAFDaSORgaE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="fahmid-bin-mosaraf" />
+<p><img src="https://www.canva.com/design/DAFDaSORgaE/WckJi91ZjHT_vZSzADh_rg/edit?utm_content=DAFDaSORgaE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="fahmid-bin-mosaraf" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmid-bin-mosaraf&label=Profile%20views&color=0e75b6&style=flat" alt="fahmid-bin-mosaraf" /> </p>
 
