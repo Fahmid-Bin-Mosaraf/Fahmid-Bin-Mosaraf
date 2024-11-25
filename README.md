@@ -3,7 +3,7 @@ Hi 👋, I'm Fahmid-Bin-Mosaraf.<br>A passionate frontend developer and competit
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fahmid.bin.mosharof) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmid-bin-mosaraf/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/fahmid_famel) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fahmid.bin.mosharof/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmid-bin-mosaraf/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/fahmid_famel) 
 
 [![](https://visitcount.itsvg.in/api?id=Fahmid-Bin-Mosaraf&icon=5&color=10)](https://visitcount.itsvg.in)
 
